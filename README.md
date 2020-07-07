@@ -1,13 +1,19 @@
-<h1 align="center">🖩 BMI calculator 🖩</h1>
+<h1 align="center">🖩 Calculator 🖩</h1>
 
 ## 💻 Project
 
-BMI calculator made in JavaScript
+Application to perform basic and advanced calculations with this practical, precise, accurate, modern and easy to use calculator.
+
+## 🎨 Layout
+
+![Layout Project]()
 
 ## 📚 Technologies
 
 * JavaScript
+* HTML
+* CSS
 
 ## 📃 License
 
-MIT License [LICENSE](https://github.com/FelipeHonoratoo/calc-imc/blob/master/LICENSE)
+MIT License [LICENSE]()
