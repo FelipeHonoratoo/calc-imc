@@ -6,7 +6,7 @@ Application to perform basic and advanced calculations with this practical, prec
 
 ## 🎨 Layout
 
-![Layout Project]()
+![Layout Project](https://github.com/FelipeHonoratoo/calculator-js/blob/master/layout.png)
 
 ## 📚 Technologies
 
@@ -16,4 +16,4 @@ Application to perform basic and advanced calculations with this practical, prec
 
 ## 📃 License
 
-MIT License [LICENSE]()
+MIT License [LICENSE](https://github.com/FelipeHonoratoo/calculator-js/blob/master/LICENSE)
